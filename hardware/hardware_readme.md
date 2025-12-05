@@ -10,16 +10,18 @@ Index finger, middle finger, ring finger, pinky finger, thumb are assembled simi
 ![Assembled Finger Sample - Inside/Bottom View](/images/Finger_Assembled.jpeg)
 
 ## Connecting Fingers to the Palm
-The fingers are connected to the palm through an aluminum dowel, as shown below.
+The fingers are connected to the palm through several aluminum dowels, as shown below.
 
 ![Finger Connected to Palm](/images/Finger_Palm.jpeg)
 
-## Wrist
-INSERT PHOTO
+## Full Assembly (w/o Wrist Handle)
+Full assembly of manufactured parts below. Servos housed within palm and covered with inner palm parts.
+
+![Full Assembly w/o Wrist](/images/Hand_Assembled.jpeg)
 
 # Hardware - Electronics
 ## Servos
-11 servos are housed within the palm
+11 servos are housed within the palm. They are daisy-chained and ID-ed through FeeTech software.
 
 ![Finger Connected to Palm](/images/Servos_In_Palm.jpeg)
 
@@ -28,4 +30,4 @@ Set-Up
 
 INSERT PHOTO
 
-## Cables
+
