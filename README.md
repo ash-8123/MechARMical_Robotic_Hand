@@ -1,14 +1,13 @@
-# MechARMical-Robotic-Hand
+# MechARMical Articulating Robotic Hand
 
 ![Assembled Hand - Curled - Inside/Bottom View](/images/Hand_Position1.jpeg)
 
-**MechARMical Robotic Hand University Project - Iteration**
+**MechARMical Robotic Hand - University Project - Work-in-Progress**
 
 ## Overview
 
 Our Robotic Hand is built off the open-source project - [Robot Nanohand](https://robotnanohand.com/) - and augmented to translate input from EMG sensors. This project was made in a 11-week span under the ME 480 Advanced CAD course from the University of Washington.
 
-**Build specs:**
 
 The MechARMical Robotic Hand features:
 
@@ -27,12 +26,6 @@ The MechARMical Robotic Hand features:
 
 3. Servo software development
 4. Integration of EMG muscle senors
-
-### Quick Reference
-
-* **Bill of Materials**: Component List
-* **Nanohand Open-Source**: Available in `/3D/` directory (OnShape CAD)
-* **Software Control**: Software Repository using FeeTech
 
 ## Project Status
 
