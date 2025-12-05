@@ -1,5 +1,9 @@
 # MechARMical-Robotic-Hand
 
+![Assembled Hand - Curled - Inside/Bottom View](/images/Hand_Position1.jpeg)
+
+**MechARMical Robotic Hand University Project - Iteration**
+
 ## Overview
 
 Our Robotic Hand is built off the open-source project - [Robot Nanohand](https://robotnanohand.com/) - and augmented to translate input from EMG sensors. This project was made in a 11-week span under the ME 480 Advanced CAD course from the University of Washington.
