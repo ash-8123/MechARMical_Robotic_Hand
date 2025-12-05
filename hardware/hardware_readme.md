@@ -26,8 +26,9 @@ Full assembly of manufactured parts below. Servos housed within palm and covered
 ![Finger Connected to Palm](/images/Servos_In_Palm.jpeg)
 
 ## EMG Sensors
-Set-Up
+Muscle sensors set-up on human arm -> signals translate to servos
 
-INSERT PHOTO
+![Muscle Sensor Set-Up](/images/EMG_SetUp.jpeg)
+
 
 
